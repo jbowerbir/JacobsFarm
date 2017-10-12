@@ -1,0 +1,431 @@
+<quiz>
+	<config>
+		<showScore>false</showScore>
+		<showCorrect>false</showCorrect>
+		<showQuit>true</showQuit>
+		<timeLimit>false</timeLimit>
+		<waitTime>0</waitTime>
+		<maxIncorrect>3</maxIncorrect>
+	</config>
+
+<item>
+	<title>
+		Round 4, Question 1:
+	</title>
+	<info type="text">
+		Sally and Ted each wore a blue scarf on Saturday.
+	</info>
+	<question>
+		What is the third (3rd) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>Sally</response>
+		<response>each</response>
+		<response>and</response>
+		<response>Ted</response>
+		</responses>
+	<answer>
+		3
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 2:
+	</title>
+	<info type="text">
+		My cat has gray fur and white whiskers.
+	</info>
+	<question>
+		What is the fifth (5th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>gray</response>
+		<response>fur</response>
+		<response>white</response>
+		<response>and</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 3:
+	</title>
+	<info type="text">
+		Everyone should drink eight glasses of water every day.
+	</info>
+	<question>
+		What is the second (2nd) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>drink</response>
+		<response>everyone</response>
+		<response>should</response>
+		<response>glasses</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 4:
+	</title>
+	<info type="text">
+		Every time I go to the grocery I buy a gallon of milk.
+	</info>
+	<question>
+		What is the seventh (7th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>I</response>
+		<response>grocery</response>
+		<response>the</response>
+		<response>to</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 5:
+	</title>
+	<info type="text">
+		Red dye comes from a bright plant in the jungle.
+	</info>
+	<question>
+		What is the sixth (6th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>bright</response>
+		<response>a</response>
+		<response>plant</response>
+		<response>jungle</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 6:
+	</title>
+	<info type="text">
+		Although she does not look like much of an athlete, that girl in the orange jersey has proven herself to be the soccer team’s savior.
+	</info>
+	<question>
+		What is the twelfth (12th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>jersey</response>
+		<response>girl</response>
+		<response>athlete</response>
+		<response>herself</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 7:
+	</title>
+	<info type="text">
+		Philip, like many people in his profession, has an ego that is undeserved and alienating to folks who come to him looking for help.
+	</info>
+	<question>
+		What is the seventeenth (17th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>looking</response>
+		<response>come</response>
+		<response>undeserved</response>
+		<response>folks</response>
+		</responses>
+	<answer>
+		3
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 8:
+	</title>
+	<info type="text">
+		Color theory is useful to know if you are a visual artist or designer, but it is not an easy thing to master.
+	</info>
+	<question>
+		What is the nineteenth (19th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>master</response>
+		<response>an</response>
+		<response>designer</response>
+		<response>or</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 9:
+	</title>
+	<info type="text">
+		You can blame me if that makes you feel better, but I believe deep down you know that you are equally at fault.
+	</info>
+	<question>
+		What is the thirteenth (13th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>believe</response>
+		<response>down</response>
+		<response>feel</response>
+		<response>down</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 10:
+	</title>
+	<info type="text">
+		An introduction to first aide is never a bad idea, especially if you expect to be working in a field where people are likely to get hurt.
+	</info>
+	<question>
+		What is the twelfth (12th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>to</response>
+		<response>if</response>
+		<response>be</response>
+		<response>in</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 11:
+	</title>
+	<info type="text">
+		Jackie still could not fathom how they managed to build towers that tall.
+	</info>
+	<question>
+		What is the thirty-fourth (34th) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>g</response>
+		<response>y</response>
+		<response>a</response>
+		<response>w</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 12:
+	</title>
+	<info type="text">
+		A cool breeze is welcome refreshment during a summer heat wave.
+	</info>
+	<question>
+		What is the fortieth (40th) lletter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>m</response>
+		<response>n</response>
+		<response>u</response>
+		<response>i</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 13:
+	</title>
+	<info type="text">
+		Be a smart consumer and research your next large purchase.
+	</info>
+	<question>
+		What is the thirty-third (33rd) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>n</response>
+		<response>l</response>
+		<response>e</response>
+		<response>r</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 14:
+	</title>
+	<info type="text">
+		Sure it looks old, but that does not make it an expensive antique.
+	</info>
+	<question>
+		What is the thirty-ninth (39th) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>p</response>
+		<response>n</response>
+		<response>a</response>
+		<response>e</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 15:
+	</title>
+	<info type="text">
+		Knitting can be a relaxing hobby, unless you have a fear of large needles, which Philip certainly does.
+	</info>
+	<question>
+		What is the sixty-first (61st) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>s</response>
+		<response>d</response>
+		<response>h</response>
+		<response>c</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 16:
+	</title>
+	<info type="text">
+		I have never shaved using a straight razor, and I cannot imagine that I will start anytime in the near future.
+	</info>
+	<question>
+		What is the seventy-eighth (78th) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>a</response>
+		<response>t</response>
+		<response>r</response>
+		<response>e</response>
+		</responses>
+	<answer>
+		3
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 17:
+	</title>
+	<info type="text">
+		The tour guide assured me that jumping from the tops of waterfalls into the deep pools below is a reasonably safe pastime.
+	</info>
+	<question>
+		What is the seventieth (70th) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>p</response>
+		<response>l</response>
+		<response>b</response>
+		<response>w</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 18:
+	</title>
+	<info type="text">
+		Although considered an odd hobby, Clarence persisted in keeping and dating the cork from every bottle of wine he bought.
+	</info>
+	<question>
+		What is the eighty-first (81st) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>e</response>
+		<response>w</response>
+		<response>l</response>
+		<response>o</response>
+		</responses>
+	<answer>
+		3
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 19:
+	</title>
+	<info type="text">
+		Yes, keeping bees can be worrying, but the honey those little guys produce is well worth the stress.
+	</info>
+	<question>
+		What is the fifty-fifth (55th) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>e</response>
+		<response>d</response>
+		<response>u</response>
+		<response>r</response>
+		</responses>
+	<answer>
+		3
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 20:
+	</title>
+	<info type="text">
+		I do not know about you guys, but I plan on getting a giant stack of pancakes when this ordeal is finally over.
+	</info>
+	<question>
+		What is the seventy-ninth (79th) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>n</response>
+		<response>y</response>
+		<response>s</response>
+		<response>e</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+</quiz>

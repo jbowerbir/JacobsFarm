@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<instructions>
+	<section>
+		<title>Welcome</title>
+		<content>
+		<![CDATA[
+<p>Hello and welcome to the experiment.  You will be playing a multiplayer game with two other players.  Each player will be reading the <b>exact same</b> instructions before playing the game.  Please press the button below when you are ready to go over the rules of the game.</p>
+		]]>
+		</content>
+	</section>
+	<section>
+		<title>Introduction</title>
+		<content>
+		<![CDATA[
+<p>Each player is represented by a color.  You have been randomly assigned the color <b><font color="#FF0000">[red/green]</font></b>.  These colors serve no purpose other than to allow you and your fellow players to keep track of your progress during play.  [From here on the "forward" button will appear after a ten second delay.]</p>
+		
+<p>You will be paid <b>actual money</b> for your participation in this experiment.  The amount of money you get <b> depends on your performance </b> in the game.  So that you can do as well as possible, read these instructions carefully.  Feel free to click the "back" button if you ever need to refresh your memory.  Click the "forward" button when you are ready to see the next part of the instructions.</p>
+		]]>
+		</content>
+	</section>
+	<section>
+		<title>
+			The Map
+		</title>
+		<content>			
+			You and the other two players are going to be playing as land investors.  Your job is to buy, and hopefully profit from, the purchase of plots of land.
+
+			Display text to the right of the 15x15 grid.]  An island has just been discovered.  The island is 225 square miles in size.  The grid to the right is a map of the island.  The grid has 225 squares, each one representing one square mile plot of land.  You and the other players will be buying these plots and trying to earn money.
+		</content>
+	</section>
+	<section>
+		<title>
+			Buying Land
+		</title>
+		<content>			
+			To indicate that you want to buy a plot of land, simply click the plot that you want to buy.  That plot will change from white to your color ([red/green]) to show that you are planning to buy it.  If you decide you do not want to buy a particular plot of land that you have selected, simply click on it a second time and it will change back to white.  Once you have selected the plots you want to buy, click the “buy” button.  Clicking the “buy” button will finalize your decision.
+
+			Let’s practice.  Please select five plots of land to buy, and then finalize your decision.
+
+			Nice job.
+		</content>		
+	</section>
+	<section>
+		<title>
+			Buying Land (continued)
+		</title>
+		<content>			
+			Land, as you may have guessed, is not free.  Each plot of land costs <strong>$0.20</strong>.  Each player starts the game with <strong>$2.00</strong>, so everyone is equal in wealth in the beginning.  Every time you select a plot of land to purchase, $0.20 will be deducted from your available cash.  The amount of cash that you currently have to spend on land is shown in the top right corner of the screen.
+
+			Let's practice.  Please spend $1.20 on land.  That means that you should have $0.80 remaining in your available cash after you finalize your purchase.
+
+			Nice job.  Now you now know how to buy land.
+
+			You will not know what land the other players bought until after everyone finalizes their purchases.  If two or more players try to buy the same plot of land, the computer will <strong>randomly</strong> choose one player to get the contested plot and the other players will be allowed to choose a different plot.
+		</content>
+	</section>
+</instructions>
+				

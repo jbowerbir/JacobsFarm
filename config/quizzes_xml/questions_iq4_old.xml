@@ -1,0 +1,112 @@
+<quiz>
+	<config>
+		<showScore>false</showScore>
+		<showCorrect>false</showCorrect>
+		<showQuit>false</showQuit>
+		<timeLimit>true</timeLimit>
+		<waitTime>60000</waitTime>
+		<maxIncorrect>9999</maxIncorrect>
+	</config>
+	
+	<item>
+		<title>
+			Round 4, Question 1:
+		</title>
+		<question>
+			Which of the following figures is the odd one out?
+		</question>
+		<responses type="image">
+			<response>iq_answer_4-1_0.gif</response>
+			<response>iq_answer_4-1_1.gif</response>
+			<response>iq_answer_4-1_2.gif</response>
+			<response>iq_answer_4-1_3.gif</response>
+			<response>iq_answer_4-1_4.gif</response>
+			</responses>
+		<answer>
+			3
+		</answer>
+	</item>
+
+	<item>
+		<title>
+			Round 4, Question 2:
+		</title>
+		<question>
+			The day before the day before yesterday is three days after Saturday. What day is it today?
+		</question>
+		<responses type="text">
+			<response>Monday</response>
+			<response>Tuesday</response>
+			<response>Wednesday</response>
+			<response>Thursday</response>
+			<response>Friday</response>
+			</responses>
+		<answer>
+			4
+		</answer>
+	</item>
+
+	<item>
+		<title>
+			Round 4, Question 3:
+		</title>
+		<question>
+			Chose the pair of words that best expresses a relationship similar to that in the original pair.
+		</question>
+		 <info type="text">
+			DECANTER : POUR
+		</info>
+		<responses type="text">
+			<response>ciminal : deviate</response>
+			<response>nunnery : convert</response>
+			<response>stiletto : walk</response>
+			<response>monument : venerate</response>
+			<response>pharmacy : proscribe</response>
+			</responses>
+		<answer>
+			3
+		</answer>
+	</item>
+
+	<item>
+		<title>
+			Round 4, Question 4:
+		</title>
+		<question>
+			Which number should replace the question mark in the table below?
+		</question>
+		 <info type="image">
+			iq_question_4-4.gif
+		</info>
+		<responses type="text">
+			<response>3</response>
+			<response>-6</response>
+			<response>-2</response>
+			<response>48</response>
+			</responses>
+		<answer>
+			1
+		</answer>
+	</item>
+
+	<item>
+		<title>
+			Round 4, Question 5:
+		</title>
+		<question>
+			Which figure results from folding the below diagram along the dotted lines?
+		</question>
+		 <info type="image">
+			iq_question_4-5.gif
+		</info>
+		<responses type="image">
+			<response>iq_answer_4-5_0.gif</response>
+			<response>iq_answer_4-5_1.gif</response>
+			<response>iq_answer_4-5_2.gif</response>
+			<response>iq_answer_4-5_3.gif</response>
+			</responses>
+		<answer>
+			2
+		</answer>
+	</item>
+</quiz>

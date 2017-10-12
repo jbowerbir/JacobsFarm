@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<startgame>
+	<message>
+		<![CDATA[
+<p>The game has begun.  Before going to the grid where you can buy cells, you have an opportunity to learn something about the value of cells.  When you hit the "Continue" button, you will be taken to an eight-question test.  You will have 40 seconds to answer each question.
+
+<b>Some players will naturally do very well.  Others will struggle with the questions.</b> The more questions you answer correctly, the more information you get about the grid, the better your chances of making money.</p>
+		]]>
+	</message>
+</startgame>

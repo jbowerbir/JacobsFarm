@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<survey>
+
+<config>
+	<waitTime>3000</waitTime>
+</config>
+
+<vote>
+<![CDATA[
+<p>One last thing.  You and the other players will vote on whether you want to leave the payoffs as they are, or you can vote to redistribute the payoffs.  If a majority of the players vote to <b>leave the payoffs as they are</b>, then the game ends and everyone is paid the amounts shown at the end of the final round.  If a majority of players vote to <b>redistribute payoffs</b>, then each player will pay a percentage of their payoffs into a pot that will then be divided among the players such that the player with the lowest payoff gets some of the funds from the player with the highest payoff.</p>
+
+<p>If you want to redistribute payoffs, you also get to vote on how you will redistribute the payoffs.  You can either have <b>every player donate an equal percentage</b> of their payoffs to the pot, or you can have the <b>player with the highest payoff donate a higher percentage</b> of their payoff to the pot.</p>
+]]>
+</vote>
+
+
+<item>
+	<question>
+		Do you think you deserve your payoff?
+	</question>
+	<responses type="text">
+		<response>Yes, I definitely deserve it</response>
+		<response>Yes, I probably deserve it</response>
+		<response>Unsure</response>
+		<response>No, I probably don't deserve it</response>
+		<response>No, I definitely don't deserve it</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		What about the other players?  Do you think they deserve their payoffs?
+	</question>
+	<responses type="text">
+		<response>Yes, they definitely deserve it</response>
+		<response>Yes, they probably deserve it</response>
+		<response>Unsure</response>
+		<response>No, they probably don't deserve it</response>
+		<response>No, they definitely don't deserve it</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		Please say a few words about why you and the other players do or don’t deserve these payoffs.  Under what circumstances would a person deserve their payoff?  Under what circumstances would a person not deserve their payoff?
+	</question>
+	<responses type="free">
+	</responses>
+</item>
+
+<item>
+	<question>
+		Overall, do you think the game was fair?
+	</question>
+	<responses type="text">
+		<response>Yes, it was very fair</response>
+		<response>Yes, it was pretty fair</response>
+		<response>It was neither fair nor unfair</response>
+		<response>No, it was pretty unfair</response>
+		<response>No, it was very unfair</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		Please say a few words about why you think the game was fair or unfair.
+	</question>
+	<responses type="free">
+	</responses>
+</item>
+
+<item>
+	<question>
+		Vote for one of the following:
+	</question>
+	<responses type="text">
+		<response>I want the payoffs to stay as they are.</response>
+		<response>I want to redistribute the payoffs.</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		Vote for one of the following:
+	</question>
+	<responses type="text">
+		<response>I want to redistribute the payoffs by having everyone pay an equal percentage.</response>
+		<response>I want to redistribute the payoffs by having the wealthiest pay a higher percentage.</response>
+	</responses>
+</item>
+</survey>

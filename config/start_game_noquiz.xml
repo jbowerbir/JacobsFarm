@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<startgame>
+	<message>
+		<![CDATA[
+<p>The game has begun.  Press "Continue" to begin.</p>
+		]]>
+	</message>
+</startgame>

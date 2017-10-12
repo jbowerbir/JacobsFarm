@@ -1,0 +1,137 @@
+<quiz>
+	<config>
+		<showScore>false</showScore>
+		<showCorrect>true</showCorrect>
+		<showQuit>false</showQuit>
+		<timeLimit>false</timeLimit>
+		<waitTime>0</waitTime>
+		<maxIncorrect>9999</maxIncorrect>
+	</config>
+
+	<item>
+		<title>
+			Instructions Quiz:
+		</title>
+		<question>
+			What is your color?
+		</question>
+		<responses type="text">
+			<response>blue</response>
+			<response>green</response>
+			<response>red</response>
+		</responses>
+		<answer>
+			2
+		</answer>
+	</item>
+
+	<item>
+		<title>
+			Instructions Quiz:
+		</title>
+		<question>
+			All players start out with the same amount of cash?
+		</question>
+		<responses type="text">
+			<response>true</response>
+			<response>false</response>
+		</responses>
+		<answer>
+			0
+		</answer>
+	</item>
+
+	<item>
+		<title>
+			Instructions Quiz:
+		</title>
+		<question>
+			What is the minimum number of cells you must buy each round?
+		</question>
+		<responses type="text">
+			<response>one</response>
+			<response>three</response>
+			<response>five</response>
+			<response>ten</response>
+		</responses>
+		<answer>
+			0
+		</answer>
+	</item>
+
+	<item>
+		<title>
+			Instructions Quiz:
+		</title>
+		<question>
+			Each cell costs how much money to buy?
+		</question>
+		<responses type="text">
+			<response>$0.01</response>
+			<response>$0.05</response>
+			<response>$0.10</response>
+			<response>$0.20</response>
+		</responses>
+		<answer>
+			3
+		</answer>
+	</item>
+
+	<item>
+		<title>
+			Instructions Quiz:
+		</title>
+		<question>
+			The majority of cells are worth how much money?
+		</question>
+		<responses type="text">
+			<response>less than $0.20</response>
+			<response>exactly $0.20</response>
+			<response>more than $0.20</response>
+			<timeLimit>false</timeLimit>
+			<waitTime>0</waitTime>
+			<maxIncorrect>9999</maxIncorrect>
+		</responses>
+		<answer>
+			1
+		</answer>
+	</item>
+
+	<item>
+		<title>
+			Instructions Quiz:
+		</title>
+		<info type="image">			
+			horizontalborder.png
+		</info>
+		<question>
+			How much is a cell with horizontal stripes worth?
+		</question>
+		<responses type="text">
+			<response>less than $0.20</response>
+			<response>exactly $0.20</response>
+			<response>more than $0.20</response>
+		</responses>
+		<answer>
+			2
+		</answer>
+	</item>
+
+	<item>
+		<title>
+			Instructions Quiz:
+		</title>
+		<question>
+			How many rounds of gameplay are there?
+		</question>
+		<responses type="text">
+			<response>two</response>
+			<response>four</response>
+			<response>six</response>
+			<response>eight</response>
+		</responses>
+		<answer>
+			1
+		</answer>
+	</item>
+</quiz>

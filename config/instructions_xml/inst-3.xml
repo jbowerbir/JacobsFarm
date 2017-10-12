@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!-- This set of instructions applies to conditions  -3.0, -3.1, and -3.2.  -->
+
+<instructions>
+
+	<section>
+		<title>Introduction</title>
+		<content>
+		<![CDATA[
+<p>Hello and welcome to the experiment.  You will be playing a multiplayer game with two other players.  Each player will be reading the <b>exact same</b> instructions before playing the game.  Please press the button below when you are ready to go over the rules of the game.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section>
+		<title>Introduction</title>
+		<content>
+		<![CDATA[
+<p>Each player is represented by a color.  You have been randomly assigned the color <b><font color="#00932d">green</font></b>.  These colors serve no purpose other than to allow you and your fellow players to keep track of your progress during play.</p>
+		
+<p>You will be paid <b>actual money</b> for your participation in this experiment.  The amount of money you get <b> depends on your performance </b> in the game.  So that you can do as well as possible, read these instructions carefully.  Feel free to click the "back" button if you ever need to refresh your memory.  Click the "forward" button when you are ready to see the next part of the instructions.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section type="fullmap">
+		<title>
+			The Map
+		</title>
+		<content>		
+		<![CDATA[
+<p>You and the other two players are going to be playing as land investors.  Your job is to buy, and hopefully profit from, the purchase of plots of land.</p>
+
+<p>An island has just been discovered.  The island is 225 square miles in size.  The grid to the right is a map of the island.  The grid has 225 squares, each one representing one square mile plot of land.  You and the other players will be buying these plots and trying to earn money.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section type="practice1">
+		<title>
+			Buying Land
+		</title>
+		<content>	
+		<![CDATA[
+<p>To indicate that you want to buy a plot of land, simply click the plot that you want to buy.  That plot will change from white to your color <b><font color="#00932d">green</font></b> to show that you are planning to buy it.  If you decide you do not want to buy a particular plot of land that you have selected, simply click on it a second time and it will change back to white.  Once you have selected the plots you want to buy, click the "Finalize Purchases" button.  Clicking the "Finalize Purchases" button will finalize your decision.</p>
+
+<p>Let's practice.  Please select five plots of land to buy, and then finalize your decision.</p>
+
+<p>Nice job.</p>
+		]]>
+		</content>		
+	</section>
+	
+	<section type="practice2">
+		<title>
+			Buying Land
+		</title>
+		<content>
+		<![CDATA[
+<p>Land, as you may have guessed, is not free.  Each plot of land costs <b>$0.20</b>.  Each player starts the game with <b>$2.00</b>, so everyone is equal in wealth in the beginning.  Every time you select a plot of land to purchase, <b>$0.20</b> will be deducted from your available cash.  The amount of cash that you currently have to spend on land is shown in the top right corner of the screen.</p>
+
+<p>Let's practice.  Please spend $1.20 on land.  That means that you should have $0.80 remaining in your available cash after you finalize your purchase.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section>
+		<title>
+			Buying Land
+		</title>
+		<content>
+		<![CDATA[
+<p>Nice job.  Now you now know how to buy land.</p>
+
+<p>You will not know what land the other players bought until after everyone finalizes their purchases.  If two or more players try to buy the same plot of land, the computer will <b>randomly</b> choose one player to get the contested plot and the other players will be allowed to choose a different plot.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section>
+		<title>
+			What We Know about the Land
+		</title>
+		<content>
+		<![CDATA[
+<p>Just because you spent $0.20 on a plot of land does not mean that your plot is worth that much.  Any given plot may be worth much less than or much more than $0.20, or anywhere in between.  You will not know how much your land is worth until <b>after</b> you finalize your purchase.</p>
+		
+<p>Not much is known about any plot of land.  The only thing we know is that, across the whole island, there are <b>very few</b> profitable plots, there are <b>several</b> unprofitable plots, and the <b>vast majority</b> of plots are worth $0.20.</p>
+			
+<p>A plot is <b>profitable</b> if it is worth more than $0.20.  For example, if you buy a plot for $0.20 and it turns out to be worth $0.65, you make $0.45 in profit.  A plot is <b>unprofitable</b> if it is worth less than $0.20.  For example, if you buy a plot for $0.20 and it turns out to be worth $0.05, you lose $0.15.  Most plots, however, are <b>neither profitable nor unprofitable</b> because they cost as much as they are worth.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section type="sampleWork">
+		<title>
+			What We Know about the Land
+		</title>
+		<content>
+		<![CDATA[
+<p>Before each round begins each player will be given a short test.  Every player receives the <b>exact same test</b>.  The questions asked require no special skill or knowledge.  Everybody will be equally able to determine the correct answers.  Here is an example question.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section type = "tileKey">
+		<title>
+			What We Know about the Land
+		</title>
+		<content>
+		<![CDATA[
+<p>To prohibit guessing, the test will automatically end after you answer three questions incorrectly.  Answer as many questions as you like, up to 25 per round.  <b>The more questions you answer, the more you learn about the map.</b></p>
+		
+<p>Here is how it works.  After taking the test, some of the plots of land on the map will show a pattern.  Plots with vertical stripes have <b>neutral</b> payoffs.  Plots with diagonal stripes have <b>negative</b> payoffs.  Plots with horizontal stripes have <b>positive</b> payoffs.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section type="summaryGreen">
+		<title>
+			Round Summaries
+		</title>
+		<content>
+		<![CDATA[
+<p>The amount of money you made or lost from buying land is displayed after all players finalize their purchases.  You also get to see how much money the other two players made or lost.  After taking a moment to review this information, the players get to play another round of land buying.  There will be a total of <b>four rounds</b>.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section>
+		<title>
+			Round Summaries
+		</title>
+		<content>
+		<![CDATA[
+<p>Any money you do not spend on land <b>rolls over</b> to your available cash for the next round.  The value of the land you bought in the previous round is <b>also included</b> in your available cash at the start of each new round.</p>
+			
+<p>Here is an example.  You start with <b>$2.00</b>, and let's say that in the first round you bought four plots.  That means you spent <b>$0.80</b>, so your available cash when you click the "Finalize Purchases" button and finalize your purchases will be $2.00 - $0.80 = <b>$1.20</b>.  Then you find out that those four plots of land are worth a total of <b>$1.00</b>.  That $1.00 will be added to your available cash, so when you start the second round you have $1.20 + $1.00 = <b>$2.20</b> to spend on land.</p>
+			
+<p>You must buy <b>at least</b> one plot of land each turn, unless you have no available cash, in which case you cannot afford to.</p>			
+		]]>
+		</content>
+	</section>
+	
+		<section>
+		<title>
+			Ending the Game
+		</title>
+		<content>
+		<![CDATA[
+<p>The game ends after the fourth round.  In the fourth round, you will buy land as normal.  The worth of that land will be added to your available cash as in the previous rounds, but instead of getting to buy land again, you will be paid the final amount in <b>actual dollars</b>.</p>
+
+<p>You will also get to see how much money the other players are paid at the end of the game.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section>
+		<title>
+			Quiz
+		</title>
+		<content>
+		<![CDATA[
+<p>Those are all the rules.  Just to be sure you understand everything, please answer these questions.  Once all the players have completed the short quiz, the game will begin.</p>
+		]]>
+		</content>
+	</section>
+	
+</instructions>
+				

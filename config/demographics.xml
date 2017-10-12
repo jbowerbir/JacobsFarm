@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<demographics>
+
+<config>
+	<waitTime>3000</waitTime>
+</config>
+
+<item>
+	<question>
+		How old are you?
+	</question>
+	<responses type="dropdown">
+	</responses>
+</item>
+
+<item>
+	<question>
+		What is your household's approximate annual income? (If a student, what is your parents'/guardians' approximate annual income?)
+	</question>
+	<responses type="text">
+		<response>$0 - $19,999</response>
+		<response>$20,000 - $39,999</response>
+		<response>$40,000 - $59,999</response>
+		<response>$60,000 - $99,999</response>
+		<response>$100,000 - $180,000</response>
+		<response>$180,000+</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		In what kind of household would you say you were raised?
+	</question>
+	<responses type="text">
+		<response>Lower class</response>
+		<response>Working class</response>
+		<response>Middle class</response>
+		<response>Upper class</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		In kind of household would you say you currently live?
+	</question>
+	<responses type="text">
+		<response>Lower class</response>
+		<response>Working class</response>
+		<response>Middle class</response>
+		<response>Upper class</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		What is your race/ethnicity?
+	</question>
+	<responses type="text">
+		<response>White</response>
+		<response>Black of African American</response>
+		<response>Latino</response>
+		<response>American Indian or Alaskan Native</response>
+		<response>Asian</response>
+		<response>Pacific Islander</response>
+		<response>Other</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		What is your sex?
+	</question>
+	<responses type="text">
+		<response>Male</response>
+		<response>Female</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		How would you identify your sexual orientation?
+	</question>
+	<responses type="text">
+		<response>Strictly heterosexual</response>
+		<response>Mostly heterosexual</response>
+		<response>Equally heteosexual/homosexual</response>
+		<response>Mostly homosexual</response>
+		<response>Strictly homosexual</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		In what kind of community do you live?
+	</question>
+	<responses type="text">
+		<response>Urban</response>
+		<response>Suburban</response>
+		<response>Rural</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		What is the highest level of schooling you have received?
+	</question>
+	<responses type="text">
+		<response>8th grade or less</response>
+		<response>Attended high school</response>
+		<response>Completed high school (or equivalent)</response>
+		<response>Attended College</response>
+		<response>Associate's degree</response>
+		<response>Bachelor's degree</response>
+		<response>Graduate or professional school</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		What kind of high school did you attend?
+	</question>
+	<responses type="text">
+		<response>Public</response>
+		<response>Charter</response>
+		<response>Private - college preperatory</response>
+		<response>Private - parochial</response>
+		<response>Homeschooled</response>
+		<response>Did not attend highschool</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		What is the highest level of schooling your most educated parent received?
+	</question>
+	<responses type="text">
+		<response>8th grade or less</response>
+		<response>Attended high school</response>
+		<response>Completed high school (or equivalent)</response>
+		<response>Attended College</response>
+		<response>Associate's degree</response>
+		<response>Bachelor's degree</response>
+		<response>Graduate or professional school</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		With which political party do you most closely identify?
+	</question>
+	<responses type="text">
+		<response>Strong Democrat</response>
+		<response>Weak Democrat</response>
+		<response>Independent - lean Democrat</response>
+		<response>Independent</response>
+		<response>Independent - lean Republican</response>
+		<response>Weak Republican</response>
+		<response>Strong Republican</response>
+		</responses>
+</item>
+
+<item>
+	<question>
+		How liberal or conservative would you say you are?
+	</question>
+	<responses type="text">
+		<response>Extremely liberal</response>
+		<response>Liberal</response>
+		<response>Slightly liberal</response>
+		<response>Moderate</response>
+		<response>Slightly conservative</response>
+		<response>Conservative</response>
+		<response>Extremely conservative</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		Do you identify with a particular religion?
+	</question>
+	<responses type="text">
+		<response>Protestantism</response>
+		<response>Catholicism</response>
+		<response>Judaism</response>
+		<response>Islam</response>
+		<response>Buddhism</response>
+		<response>Hinduim</response>
+		<response>Other</response>
+		<response>None</response>
+	</responses>
+</item>
+
+<item>
+	<question>
+		How would you describe your theological outlook?
+	</question>
+	<responses type="text">
+		<response>Fundamentalist</response>
+		<response>Moderate</response>
+		<response>Liberal</response>
+		<response>None of the above</response>
+	</responses>
+
+</item>
+
+<item>
+	<question>
+		How religious would you say you are?
+	</question>
+	<responses type="text">
+		<response>Very religious</response>
+		<response>Somewhat religious</response>
+		<response>Not religious</response>
+		<response>Not at all religious</response>
+	</responses>
+</item>
+</demographics>

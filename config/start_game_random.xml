@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<startgame>
+	<message>
+		<![CDATA[
+<p>The game has begun.  Remember that when you go to the grid at the start of each round, a <b>random selection of cells</b> will display a pattern letting you know whether their payoff is negative, positive, or neutral.
+
+<b>This process is random for each player.  Each player, therefore, will see a <b><i>different number</i> of <i>different</i> patterned cells</b>.</p>
+		]]>
+	</message>
+</startgame>

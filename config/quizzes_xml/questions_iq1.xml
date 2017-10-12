@@ -1,0 +1,171 @@
+<quiz>
+	<config>
+		<showScore>false</showScore>
+		<showCorrect>false</showCorrect>
+		<showQuit>false</showQuit>
+		<timeLimit>true</timeLimit>
+		<waitTime>40000</waitTime>
+		<maxIncorrect>9999</maxIncorrect>
+	</config>
+	
+	<item>
+		<title>
+			Round 1, Question 1:
+		</title>
+		<question>
+			Select the one word that is closest in meaning to the word in capitals.
+		</question>
+		 <info type="text">
+			METAPHORICAL
+		</info>
+		<responses type="text">
+			<response>symbolic</response>
+			<response>philosophical</response>
+			<response>sambolic</response>
+			<response>abstract</response>
+			<response>substantial</response>
+			</responses>
+		<answer>
+			2
+		</answer>
+	</item>
+
+	<item>
+		<title>
+			Round 1, Question 2:
+		</title>
+		<question>
+			Select the one word that is closest in meaning to the word in capitals.
+		</question>
+		 <info type="text">
+			WORST
+		</info>
+		<responses type="text">
+			<response>excel</response>
+			<response>dodge</response>
+			<response>agonize</response>
+			<response>change</response>
+			<response>overpower</response>
+			</responses>
+		<answer>
+			4
+		</answer>
+	</item>
+
+	<item>
+		<title>
+			Round 1, Question 3:
+		</title>
+		<question>
+			Select the one word that is closest in meaning to the word in capitals.
+		</question>
+		 <info type="text">
+			MARVEL
+		</info>
+		<responses type="text">
+			<response>hope</response>
+			<response>subdue</response>
+			<response>wonder</response>
+			<response>augment</response>
+			<response>view</response>
+			</responses>
+		<answer>
+			2
+		</answer>
+	</item>
+	
+	<item>
+		<title>
+			Round 1, Question 4:
+		</title>
+		<question>
+			Select the one word that does not belong.
+		</question>
+		<responses type="text">
+			<response>creek</response>
+			<response>brook</response>
+			<response>stream</response>
+			<response>pond</response>
+			<response>river</response>
+			</responses>
+		<answer>
+			3
+		</answer>
+	</item>
+	
+	<item>
+		<title>
+			Round 1, Question 5:
+		</title>
+		<question>
+			Select the one word that does not belong.
+		</question>
+		<responses type="text">
+			<response>sit</response>
+			<response>crawl</response>
+			<response>walk</response>
+			<response>jog</response>
+			<response>run</response>
+			</responses>
+		<answer>
+			0
+		</answer>
+	</item>
+		
+	<item>
+		<title>
+			Round 1, Question 6:
+		</title>
+		<question>
+			Select the one word that does not belong.
+		</question>
+		<responses type="text">
+			<response>idiom</response>
+			<response>nonsense</response>
+			<response>locution</response>
+			<response>motto</response>
+			<response>utterance</response>
+			</responses>
+		<answer>
+			1
+		</answer>
+	</item>
+	
+	<item>
+		<title>
+			Round 1, Question 7:
+		</title>
+		<question>
+			Select the one word that does not belong.
+		</question>
+		<responses type="text">
+			<response>elaborate</response>
+			<response>expound</response>
+			<response>enlarge</response>
+			<response>extemporize</response>
+			<response>expatiate</response>
+			</responses>
+		<answer>
+			3
+		</answer>
+	</item>
+		
+	<item>
+		<title>
+			Round 1, Question 8:
+		</title>
+		<question>
+			Select the one word that does not belong.
+		</question>
+		<responses type="text">
+			<response>period</response>
+			<response>age</response>
+			<response>epoch</response>
+			<response>cosmos</response>
+			<response>era</response>
+			</responses>
+		<answer>
+			3
+		</answer>
+	</item>
+</quiz>

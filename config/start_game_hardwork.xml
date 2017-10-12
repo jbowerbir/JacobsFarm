@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<startgame>
+	<message>
+		<![CDATA[
+<p>The game has begun.  Before going to the grid where you can buy cells, you have an opportunity to learn something about the value of cells.  When you hit the "Continue" button, you will be taken to a test that lasts as long as you want it to.
+
+<b>The questions require no special skill or knowledge; just patience and effort.</b> The more questions you answer correctly, the more information you get about the grid, the better your chances of making money.  You can stop answering questions whenever you like by hitting the "Exit" button.</p>
+		]]>
+	</message>
+</startgame>

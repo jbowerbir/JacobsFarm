@@ -1,0 +1,420 @@
+<item>
+	<title>
+		Round 1, Question 1:
+	</title>
+	<question>
+		Rearrange the following letters to make a word and choose the category in which the word fits.
+	</question>
+	 <info type="text">
+		RAPETEKA
+	</info>
+	<responses type="text">
+		<response>city</response>
+		<response>fruit</response>
+		<response>bird</response>
+		<response>vegetable</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 1, Question 2:
+	</title>
+	<question>
+		What number comes next in this series:
+	</question>
+	 <info type="text">
+		25, 24, 22, 19, 15, 
+	</info>
+	<responses type="text">
+		<response>4</response>
+		<response>5</response>
+		<response>10</response>
+		<response>14</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 1, Question 3:
+	</title>
+	<question>
+		Which one of cubes is the same as the unfolded cube below?
+	</question>
+	 <info type="image">
+		iq_question_1-3.gif
+	</info>
+	<responses type="image">
+		<response>iq_answer_1-3_0.gif</response>
+		<response>iq_answer_1-3_1.gif</response>
+		<response>iq_answer_1-3_2.gif</response>
+		<response>iq_answer_1-3_3.gif</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 1, Question 4:
+	</title>
+	<question>
+		Pick the piece that is missing from the diagram below?
+	</question>
+	 <info type="image">
+		iq_question_1-4.gif
+	</info>
+	<responses type="image">
+		<response>iq_answer_1-4_0.gif</response>
+		<response>iq_answer_1-4_1.gif</response>
+		<response>iq_answer_1-4_2.gif</response>
+		<response>iq_answer_1-4_3.gif</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 1, Question 5:
+	</title>
+	<question>
+		Which word does not belong:
+	</question>
+	 <info type="text">
+		apple, marmalade, orange, cherry, grape
+	</info>
+	<responses type="text">
+		<response>apple</response>
+		<response>marmalade</response>
+		<response>orange</response>
+		<response>cherry</response>
+		<response>grape</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 2, Question 1:
+	</title>
+	<question>
+		What number comes next in this series:
+	</question>
+	 <info type="text">
+		4, 5, 6, 17, 44, 
+	</info>
+	<responses type="text">
+		<response>80</response>
+		<response>125</response>
+		<response>112</response>
+		<response>60</response>
+		<response>84</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 2, Question 2:
+	</title>
+	<question>
+		Which one of the sets of letters below can be arranged into a five-letter English word?
+	</question>
+	<responses type="text">
+		<response>A T R U N</response>
+		<response>E T L R N</response>
+		<response>P O D E B</response>
+		<response>M O H A T</response>
+		<response>R N A S L</response>
+		</responses>
+	<answer>
+		4
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 2, Question 3:
+	</title>
+	<question>
+		How many four-sided shapes does this diagram have?
+	</question>
+	 <info type="image">
+		iq_question_2-3.gif
+	</info>
+	<responses type="text">
+		<response>5-10</response>
+		<response>11-15</response>
+		<response>16-20</response>
+		<response>21-25</response>
+		<response>26-30</response>
+		</responses>
+	<answer>
+		4
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 2, Question 4:
+	</title>
+	<question>
+		Chose the pair of words that best expresses a relationship similar to that in the original pair.
+	</question>
+	 <info type="text">
+		TENET : THEOLOGIAN
+	</info>
+	<responses type="text">
+		<response>predecessor : heir</response>
+		<response>hypothesis : biologist</response>
+		<response>recluse : rivalry</response>
+		<response>arrogance : persecution</response>
+		<response>guitarist : rock band</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 2, Question 5:
+	</title>
+	<question>
+		Which figure comes next in this series:
+	</question>
+	 <info type="image">
+		iq_question_1-3.gif
+	</info>
+	<responses type="image">
+		<response>iq_answer_2-5_0.gif</response>
+		<response>iq_answer_2_5_1.gif</response>
+		<response>iq_answer_2_5_2.gif</response>
+		<response>iq_answer_2_5_3.gif</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+
+<item>
+	<title>
+		Round 3, Question 1:
+	</title>
+	<question>
+		Chose the pair of words that best expresses a relationship similar to that in the original pair.
+	</question>
+	 <info type="text">
+		PLATITUDE : CLICHE
+	</info>
+	<responses type="text">
+		<response>dogma : accurate</response>
+		<response>theater : dramatic</response>
+		<response>sage : wise</response>
+		<response>legerdemain : obvious</response>
+		<response>portent : beneficial</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 2:
+	</title>
+	<question>
+		Which one of the following figures is the odd one out?
+	</question>
+	 <info type="image">
+		iq_question_3-2.gif
+	</info>
+	<responses type="image">
+		<response>iq_answer_3-2_0.gif</response>
+		<response>iq_answer_3-2_1.gif</response>
+		<response>iq_answer_3-2_2.gif</response>
+		<response>iq_answer_3-2_3.gif</response>
+		<response>iq_answer_3-2_4.gif</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 3:
+	</title>
+	<question>
+		At the end of a banquet, 10 people shake hands with each other. How many handshakes will there be in total?
+	</question>
+	<responses type="text">
+		<response>100</response>
+		<response>20</response>
+		<response>50</response>
+		<response>45</response>
+		<response>90</response>
+		</responses>
+	<answer>
+		3
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 4:
+	</title>
+	<question>
+		Which figure results from folding the below diagram along the dotted lines?
+	</question>
+	 <info type="image">
+		iq_question_3-4.gif
+	</info>
+	<responses type="image">
+		<response>iq_answer_3-4_0.gif</response>
+		<response>iq_answer_3-4_1.gif</response>
+		<response>iq_answer_3-4_2.gif</response>
+		<response>iq_answer_3-4_3.gif</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 5:
+	</title>
+	<question>
+		Which number should replace the question mark in the table below?
+	</question>
+	 <info type="image">
+		iq_question_3-5.gif
+	</info>
+	<responses type="image">
+		<response>4</response>
+		<response>5</response>
+		<response>6</response>
+		<response>7</response>
+		<response>8</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 1:
+	</title>
+	<question>
+		Which of the following figures is the odd one out?
+	</question>
+	<responses type="image">
+		<response>iq_answer_4-1_0.gif</response>
+		<response>iq_answer_4-1_1.gif</response>
+		<response>iq_answer_4-1_2.gif</response>
+		<response>iq_answer_4-1_3.gif</response>
+		<response>iq_answer_4-1_4.gif</response>
+		</responses>
+	<answer>
+		3
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 2:
+	</title>
+	<question>
+		The day before the day before yesterday is three days after Saturday. What day is it today?
+	</question>
+	<responses type="text">
+		<response>Monday</response>
+		<response>Tuesday</response>
+		<response>Wednesday</response>
+		<response>Thursday</response>
+		<response>Friday</response>
+		</responses>
+	<answer>
+		4
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 3:
+	</title>
+	<question>
+		Chose the pair of words that best expresses a relationship similar to that in the original pair.
+	</question>
+	 <info type="text">
+		DECANTER : POUR
+	</info>
+	<responses type="text">
+		<response>ciminal : deviate</response>
+		<response>nunnery : convert</response>
+		<response>stiletto : walk</response>
+		<response>monument : venerate</response>
+		<response>pharmacy : proscribe</response>
+		</responses>
+	<answer>
+		3
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 4:
+	</title>
+	<question>
+		Which number should replace the question mark in the table below?
+	</question>
+	 <info type="image">
+		iq_question_4-4.gif
+	</info>
+	<responses type="image">
+		<response>3</response>
+		<response>-6</response>
+		<response>-2</response>
+		<response>48</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 4, Question 5:
+	</title>
+	<question>
+		Which figure results from folding the below diagram along the dotted lines?
+	</question>
+	 <info type="image">
+		iq_question_4-5.gif
+	</info>
+	<responses type="image">
+		<response>iq_answer_4-5_0.gif</response>
+		<response>iq_answer_4-5_1.gif</response>
+		<response>iq_answer_4-5_2.gif</response>
+		<response>iq_answer_4-5_3.gif</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>

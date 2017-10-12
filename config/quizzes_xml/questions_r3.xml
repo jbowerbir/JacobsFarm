@@ -1,0 +1,430 @@
+<quiz>
+	<config>
+		<showScore>false</showScore>
+		<showCorrect>false</showCorrect>
+		<showQuit>true</showQuit>
+		<timeLimit>false</timeLimit>
+		<waitTime>0</waitTime>
+		<maxIncorrect>3</maxIncorrect>
+	</config>
+<item>
+	<title>
+		Round 3, Question 1:
+	</title>
+	<info type="text">
+		It is always nice to spend a Sunday afternoon at the park.
+	</info>
+	<question>
+		What is the third (3rd) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>is</response>
+		<response>nice</response>
+		<response>it</response>
+		<response>always</response>
+		</responses>
+	<answer>
+		3
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 2:
+	</title>
+	<info type="text">
+		What are your plans for dinner?
+	</info>
+	<question>
+		What is the fifth (5th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>dinner</response>
+		<response>for</response>
+		<response>plans</response>
+		<response>your</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 3:
+	</title>
+	<info type="text">
+		It is more environmentally friendly to ride a bike than drive a car.
+	</info>
+	<question>
+		What is the second (2nd) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>it</response>
+		<response>gas</response>
+		<response>is</response>
+		<response>more</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 4:
+	</title>
+	<info type="text">
+		What do you want to do when you grow up?
+	</info>
+	<question>
+		What is the seventh (7th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>you</response>
+		<response>when</response>
+		<response>do</response>
+		<response>grow</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 5:
+	</title>
+	<info type="text">
+		I have class seven days per week.
+	</info>
+	<question>
+		What is the sixth (6th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>per</response>
+		<response>seven</response>
+		<response>days</response>
+		<response>week</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 6:
+	</title>
+	<info type="text">
+		However clean you may fancy yourself, I cannot help but fear that fungus is an ever present threat to our health.
+	</info>
+	<question>
+		What is the seventeenth (17th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>cannot</response>
+		<response>fungus</response>
+		<response>our</response>
+		<response>present</response>
+		</responses>
+	<answer>
+		3
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 7:
+	</title>
+	<info type="text">
+		I prefer globes to maps, if only because globes can be hurled at attackers whereas maps are generally without defensive capabilities.
+	</info>
+	<question>
+		What is the thirteenth (13th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>hurled</response>
+		<response>are</response>
+		<response>whereas</response>
+		<response>at</response>
+		</responses>
+	<answer>
+		3
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 8:
+	</title>
+	<info type="text">
+		I am not much for superstition, but when walking through a cemetery I do tend to try to avoid dancing on familiar looking graves.
+	</info>
+	<question>
+		What is the twelfth (12th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>tend</response>
+		<response>try</response>
+		<response>cemetery</response>
+		<response>through</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 9:
+	</title>
+	<info type="text">
+		Nobody loves breakfast cereal quite as much as Samantha, except maybe Meredith, her rival on the middle school dance squad.
+	</info>
+	<question>
+		What is the nineteenth (19th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>dance</response>
+		<response>middle</response>
+		<response>the</response>
+		<response>Meredith</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 10:
+	</title>
+	<info type="text">
+		Revenge is an appealing concept to many people, but few individuals who have actually carried out their plans for revenge feel fulfilled.
+	</info>
+	<question>
+		What is the fourteenth (14th) word in the above sentence?
+	</question>
+	<responses type="text">
+		<response>their</response>
+		<response>individuals</response>
+		<response>actually</response>
+		<response>feel</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 11:
+	</title>
+	<info type="text">
+		I have not used a cassette player for years, or even a compact disc player, for that matter.
+	</info>
+	<question>
+		What is the thirty-first (31st) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>v</response>
+		<response>f</response>
+		<response>y</response>
+		<response>a</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 12:
+	</title>
+	<info type="text">
+		Do you ever get nervous when you cannot find your keys in your pocket?
+	</info>
+	<question>
+		What is the twenty-seventh (27th) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>c</response>
+		<response>n</response>
+		<response>y</response>
+		<response>h</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 13:
+	</title>
+	<info type="text">
+		It has been eons since the earth last knew a true empire.
+	</info>
+	<question>
+		What is the thirty-fifth (35th) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>e</response>
+		<response>n</response>
+		<response>a</response>
+		<response>r</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 14:
+	</title>
+	<info type="text">
+		I need a photo opportunity before my shot at fame passes.
+	</info>
+	<question>
+		What is the thirty-ninth (39th) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>t</response>
+		<response>m</response>
+		<response>p</response>
+		<response>s</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 15:
+	</title>
+	<info type="text">
+		I swear, the statue was right there just a minute ago!
+	</info>
+	<question>
+		What is the thirtieth (30th) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>u</response>
+		<response>r</response>
+		<response>t</response>
+		<response>h</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 16:
+	</title>
+	<info type="text">
+		Olivia was convinced there was a creature somewhere nearby, but she lacked the courage to confirm her suspicion.
+	</info>
+	<question>
+		What is the fifty-ninth (59th) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>g</response>
+		<response>h</response>
+		<response>c</response>
+		<response>e</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 17:
+	</title>
+	<info type="text">
+		This crowd is getting pretty unruly, but I hardly think it is in danger of escalating into a riot.
+	</info>
+	<question>
+		What is the sixty-ninth (69th) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>a</response>
+		<response>t</response>
+		<response>o</response>
+		<response>g</response>
+		</responses>
+	<answer>
+		3
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 18:
+	</title>
+	<info type="text">
+		The queen looked poised and only a little nervous during her swearing in at yesterday’s coronation.
+	</info>
+	<question>
+		What is the fifty-second (52nd) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>r</response>
+		<response>w</response>
+		<response>a</response>
+		<response>u</response>
+		</responses>
+	<answer>
+		1
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 19:
+	</title>
+	<info type="text">
+		Hardly a day goes by that I do not think about how much better my life would be if I had only submitted that patent.
+	</info>
+	<question>
+		What is the seventy-first (71st) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>o</response>
+		<response>d</response>
+		<response>l</response>
+		<response>b</response>
+		</responses>
+	<answer>
+		2
+	</answer>
+</item>
+
+<item>
+	<title>
+		Round 3, Question 20:
+	</title>
+	<info type="text">
+		Few sounds are as glorious as the clicking and clacking of an old typewriter, except maybe a train horn in the distance.
+	</info>
+	<question>
+		What is the seventy-sixth (76th) letter in the above sentence?
+	</question>
+	<responses type="text">
+		<response>t</response>
+		<response>n</response>
+		<response>b</response>
+		<response>y</response>
+		</responses>
+	<answer>
+		0
+	</answer>
+</item>
+
+</quiz>

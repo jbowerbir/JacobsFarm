@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<!-- This set of instructions applies to conditions 1.0.  -->
+
+<instructions>
+
+	<section>
+		<title>Introduction</title>
+		<content>
+		<![CDATA[
+<p>Hello and welcome to the experiment.  You will be playing a multiplayer game with two other players.  Each player will be reading the <b>exact same</b> instructions before playing the game.  Please press the "Start" button when you are ready to go over the rules of the game.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section>
+		<title>Introduction</title>
+		<content>
+		<![CDATA[
+<p>You will be paid <b>actual money</b> for your participation in this experiment.  The amount of money you get <b> depends on your performance </b> in the game.  Read these instructions carefully so that you can do as well as possible.  Feel free to click the "back" button if you ever need to refresh your memory.  Click the "Next" button when you are ready to see the next part of the instructions.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section type="fullmap">
+		<title>
+			The Map
+		</title>
+		<content>		
+		<![CDATA[	
+<p>Each player is represented by a color.  You have been randomly assigned the color <b><font color="#C63333">red</font></b>.  Another player is green and the other blue.</p>
+
+<p>To the right you see a grid.  There are a total of 225 cells in the grid.  Different cells are worth different amounts of money.  You and the other players will try to make money by buying cells from the grid.  The grid is <b>exactly the same</b> for all players.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section type="practice1">
+		<title>
+			Buying Cells
+		</title>
+		<content>	
+		<![CDATA[
+<p>Click a cell to indiciate that you want to buy it.  That cell will change from white to your color <b><font color="#C63333">red</font></b>.  If you decide you do not want to buy a particular cell that you have selected, simply click on it a second time and it will change back to white.  Once you have selected the cells you want to buy, click the "Finalize Purchases" button.</p>
+
+<p>Let's practice on the small grid to the right.  Please select five cells and then finalize your decision.</p>
+		]]>
+		</content>		
+	</section>
+	
+	<section type="practice2">
+		<title>
+			Buying Cells
+		</title>
+		<content>
+		<![CDATA[	
+<p>Cells are not free.  Each cell costs <b>$0.20</b>.  Each player starts the game with <b>$2.00</b>, so everyone is equal in wealth in the beginning.  Every time you select a cell to purchase, $0.20 will be deducted from your available cash.  The amount of cash that you currently have to spend on cells is shown above the grid.</p>
+
+<p>Let's practice.  Please spend $1.20 on land.  That means that you should have $0.80 remaining in your available cash after you finalize your purchase.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section>
+		<title>
+			Buying Cells
+		</title>
+		<content>
+		<![CDATA[
+<p>Nice job.  Now you now know how to buy cells.</p>
+
+<p>You will not know which cells the other players bought until after everyone finalizes their purchases.  If two or more players try to buy the same cell, the computer will <i>randomly</i> choose one player to get the contested cell and the other players will be allowed to choose a different cell.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section>
+		<title>
+			What We Know about the Cells
+		</title>
+		<content>
+		<![CDATA[
+<p>Just because you spent $0.20 on a cell does not mean it is worth that much.  A cell may be worth much less than or much more than $0.20, or anywhere in between.  You will not know how much your cells are worth until after you finalize your purchases.</p>
+		
+<p>A cell is <i>profitable</i> if it is worth more than $0.20.  For example, if you buy a cell for $0.20 and it turns out to be worth $0.65, you make $0.45 in profit.  A cell is <i>unprofitable</i> if it is worth less than $0.20.  For example, if you buy a cell for $0.20 and it turns out to be worth $0.05, you lose $0.15.  A cell is <i>neither profitable nor unprofitable</i> if it costs and is worth $0.20, meaning you neither make nor lose money.</p>
+		
+<p>At the start of the game, all we know about the grid is this:  There are <b><i>very few</i> profitable cells</b>, there are <b><i>several</i> unprofitable cells</b>, and the <b><i>vast majority</i> of cells are worth as much as they cost</b>.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section>
+		<title>
+			Rounds
+		</title>
+		<content>
+		<![CDATA[
+<p>The game lasts <b>four rounds</b>.  That means you and the other players have four opportunities to buy cells.  Any money you do not spend on cells rolls over to your available cash for the next round.  The value of the cells you bought in the previous round is also included in your available cash at the start of each new round.</p>
+			
+<p>Here is an example.  You start the game with <b>$2.00</b>, and let's say that in the first round you buy four cells.  That means you spent <b>$0.80</b>, so your available cash after you finalize your purchases will be $2.00 - $0.80 = <b>$1.20</b>.  Then you learn that the four cells you bought are worth a total of <b>$1.00</b>.  That $1.00 will be added to your available cash, so when you start the second round you have $1.20 + $1.00 = <b>$2.20</b> to spend on cells.</p>
+			
+<p>You must buy <i>at least</i> one cells each turn, unless you have no available cash, in which case you cannot afford to.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section type="summaryRed">
+		<title>
+			Round Summaries
+		</title>
+		<content>
+		<![CDATA[
+<p>At the end of each round, you will also see a summary of how much money you and the other players have made or lost.  An example of the summary screen is shown to the right.</p>
+		]]>
+		</content>
+	</section>
+
+	<section type="summaryRed">
+		<title>
+			Round Summaries
+		</title>
+		<content>
+		<![CDATA[
+<p>In this example, round 3 has just ended and round 4 is about to begin.</p>
+			
+<p>You can see that the Blue player currently has the most money overall with $6.50, and the Green player has the least money overall with $4.90.</p>
+			
+<p>The numbers in parentheses show how much money each player made or lost in the <i>most recent</i> round.  In this illustration, for example, the Red player made $0.55 from the cells she bought in round 3, bringing her total funds to $5.75.</p>
+		]]>
+		</content>
+	</section>
+
+	<section type="summaryRed">
+		<title>
+			Round Summaries
+		</title>
+		<content>
+		<![CDATA[
+<p>You can also look at the graph below the rankings to see what has happened in previous rounds.</p>
+			
+<p>Because all players begin the game with $2.00, each of the colored lines on the graph start at the same point.  The movement of a line up and down shows how much money a players made or lost each round.  The points along a line show how much money a players has at the end of each round.</p>
+		]]>
+		</content>
+	</section>
+
+	<section type="summaryRed">
+		<title>
+			Round Summaries
+		</title>
+		<content>
+		<![CDATA[
+<p>Looking at the graph, we learn that:</p>
+			
+<p>In round 1, the Blue player made the most money, the Red player made slightly less, and the Green player <i>lost</i> money.</p>
+			
+<p>In round 2, all players made money, but the Red player had the most money overall at the end of the round.  The Blue and Green players ended round 2 with almost the same amount of money overall.</p>
+			
+<p>In round 3, all players again made money, but now the Blue player has the most overall, followed by the Red player and then the Green player.</p>
+		]]>
+		</content>
+	</section>
+
+	<section>
+		<title>
+			Ending the Game
+		</title>
+		<content>
+		<![CDATA[
+<p>The game ends after the fourth round.  In the fourth round, you will buy cells as normal.  The worth of those cells will be added to your available cash as in the previous rounds, but instead of getting to buy cells again, you will be paid the final amount in <b>actual dollars</b>.</p>
+			
+<p>Here is an example.  Let's say that you enter the fourth round with <b>$5.00</b> and that you spend <b>$1.00</b> buying five cells.  Your available cash at the end of the fourth round, therefore, is $5.00 - $1.00 = <b>$4.00</b>.  After finalizing your purchase, you learn that the five cells you bought are altogether worth <b>$0.90</b>.  That means you get paid a total of $4.00 + $0.90 = <b>$4.90</b> in real life.</p>
+			
+<p>You will also get to see how much money the other players are paid at the end of the game.</p>
+		]]>
+		</content>
+	</section>
+	
+	<section>
+		<title>
+			On to the Game
+		</title>
+		<content>
+		<![CDATA[
+<p>Those are all the rules.  To be sure you understand everything, please answer the questions that follow.  Once all the players have answered the questions, the game will begin.</p>
+		]]>
+		</content>
+	</section>
+	
+</instructions>
+				
