@@ -1,0 +1,68 @@
+<html>
+<head>
+</head>
+<body>
+<script>
+	(function() {
+	
+		<!-- For testing:		-->
+		<!--	alert_on = true : Tells you the treatment loaded (as designated by the below array -->
+		<!--	random_on = true : Randomly assigns; IF OFF: use "non_random_treatment_manual to hardcode." -->
+		<!--	cookie_on = true : IF RANDOM IS ON, it stores the cookie and won't let you change treatments by refreshing. -->
+		<!--					   IF RANDOM IS OFF, it is ignored, and cookies aren't used. -->
+	
+		alert_on = true;
+		random_on = false;
+		cookie_on = true;
+		
+		<!-- If Random is off: -->
+		non_random_treatment_manual = 8;
+	
+		array = new Array;
+		array[1] = "Rebuild_1.swf";
+		array[2] = "Rebuild_2.swf";
+		array[3] = "Rebuild_2_1.swf";
+		array[4] = "Rebuild_2_2.swf";
+		array[5] = "Rebuild_3.swf";
+		array[6] = "Rebuild_3_1.swf";
+		array[7] = "Rebuild_3_2.swf";
+		array[8] = "Rebuild_4.swf";
+		
+		if (random_on) {
+			if (cookie_on)
+			{
+				if (document.cookie == "")
+				{
+					var rnum = Math.floor((5)*Math.random()) + 1;
+					document.cookie=rnum;
+				} else {
+					var rnum = document.cookie;
+				}
+			}
+			else {
+				var rnum = Math.floor((5)*Math.random()) + 1;
+			}
+		}
+		else {
+			var rnum = non_random_treatment_manual;
+		}
+		
+		
+		if (alert_on)
+		{
+			alert(rnum);
+		}
+		
+		
+		document.write('<OBJECT><center> <EMBED id="display" src='+array[rnum]+' quality=high width="1000" height="700"  NAME="Rebuild" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer" ></EMBED>  </OBJECT></center>');
+	
+	})()
+</script>
+
+<!--
+Commented out:
+	<OBJECT><center> <EMBED id="display" src="Rebuild.swf" quality=high width="1000" height="700"  NAME="Rebuild" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer" ></EMBED>  </OBJECT></center>
+-->
+
+</body>
+</html>
